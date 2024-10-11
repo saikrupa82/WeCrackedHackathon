@@ -16,7 +16,7 @@ export default function ContactSection() {
         {
             name: 'Kelechi Opurum',
             role: 'Fullstack Engineer',
-            school: 'CS @ Loyola University Maryland, 1x Hackathon Winner, SWE Fellow @ Headstarter',
+            school: 'SWE Intern @ OpenQQuantify, CS @ Loyola University Maryland, 1x Hackathon Winner',
             imgSrc: '/kelechi.png',
             linkedin: 'https://linkedin.com/in/kelechi-opurum',
         },
